@@ -15,7 +15,7 @@
 # Unity files
 *.asmdef unity-yaml-file -linguist-generated
 *.anim unity-yaml-file
-*.asset unity-yaml-file
+*.asset lfs-file
 *.brush unity-yaml-file
 *.controller unity-yaml-file
 *.flare unity-yaml-file
