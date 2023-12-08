@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88230c10eda5c7df6a5022e2fc8b9f481524ed2f48a686ebdba836476ff9ecf6
-size 632
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!159 &1
+EditorSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 7
+  m_ExternalVersionControlSupport: Hidden Meta Files
+  m_SerializationMode: 2
+  m_LineEndingsForNewScripts: 1
+  m_DefaultBehaviorMode: 0
+  m_SpritePackerMode: 0
+  m_SpritePackerPaddingPower: 1
+  m_EtcTextureCompressorBehavior: 1
+  m_EtcTextureFastCompressor: 1
+  m_EtcTextureNormalCompressor: 2
+  m_EtcTextureBestCompressor: 4
+  m_ProjectGenerationIncludedExtensions: txt;xml;fnt;cd;asmdef;rsp
+  m_ProjectGenerationRootNamespace: 
+  m_UserGeneratedProjectSuffix: 
+  m_CollabEditorSettings:
+    inProgressEnabled: 1

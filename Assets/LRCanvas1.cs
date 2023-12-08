@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e36c54983e173172b2fcdbb6fa6b98e9a18786e112c7e3c80acb46876370ecd0
-size 548
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using DG.Tweening;
+
+public class LRCanvas1 : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+	}
+
+	public void Enter()
+	{
+		transform.DOMove (new Vector3 (0f, 0f, 500f), 11).SetEase (Ease.InOutQuart);//, 1, 1);
+		//transform.DOMove(new Vector3(1f, 1f, 500f), 5f);
+	}
+
+	void changeSize(float val)
+	{
+//		GetComponent<Text> ().fontSize = (int) Mathf.Round(val);
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+}

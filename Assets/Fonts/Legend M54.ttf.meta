@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:081655829f9b187635d311dea9816409e7074d651ffcaad6b38c6bd03f4d3c29
-size 512
+fileFormatVersion: 2
+guid: 2c6171a20dfbf4230b2963d2400a5a5f
+timeCreated: 1523367470
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 128
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Legend M54
+  fontNames:
+  - Legend M54
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

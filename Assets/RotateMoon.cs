@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ab2a6fd12de57f93391adc8ea1e48013672f4b75cb1f42120195e957be427a9
-size 344
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class RotateMoon : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		transform.rotation = Quaternion.Euler (transform.eulerAngles + new Vector3 (0, Time.deltaTime, 0));
+	}
+}

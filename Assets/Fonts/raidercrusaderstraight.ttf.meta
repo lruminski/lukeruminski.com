@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:caa58fbd48bcfc1ed263b5567c9b003792548d23cc9f142d21b982314783d661
-size 539
+fileFormatVersion: 2
+guid: 2c70c63affd7f4428b7e162a91a321c6
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Straight
+  fontNames:
+  - Raider Crusader Straight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

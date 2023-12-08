@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8751cdc68d4e47fe5139fc311d9a1a06e5b203cb5ff0f5d284226d3dddccdb24
-size 538
+fileFormatVersion: 2
+guid: 40652031db66e4b10a135d0d3664ef9a
+timeCreated: 1523369878
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Outline
+  fontNames:
+  - Raider Crusader Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

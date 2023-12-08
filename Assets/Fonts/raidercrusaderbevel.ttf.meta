@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb1ec9e80b063f2a77cbea8d355de7a10dadbd2e75606c85843b9027cd265910
-size 533
+fileFormatVersion: 2
+guid: 869a7ce8f28bd4551af0308c1fe189b2
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Bevel
+  fontNames:
+  - Raider Crusader Bevel
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db938e84b8420eb3b6649a7a7b66c5cbf728c083d99f0f747afd802c10e3db0c
-size 539
+fileFormatVersion: 2
+guid: 90ae26ac7b67a4ff7854261b5c1966ce
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Shift Up
+  fontNames:
+  - Raider Crusader Shift Up
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

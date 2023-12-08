@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3eb3e5409aed204167e5bc5136cb6efe1eb11be41bd5756dbfa49aa646e8b277
-size 513
+fileFormatVersion: 2
+guid: 635809fd307a24e86b36c9358bd3d312
+timeCreated: 1523462959
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Star Avenue
+  fontNames:
+  - Star Avenue
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

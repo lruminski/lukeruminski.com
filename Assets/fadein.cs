@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8f1557701c79b3faecae175a4444b0deca41546ec978a90a6cd4ac256535c4bb
-size 360
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using DG.Tweening;
+
+public class fadein : MonoBehaviour {
+
+	void Awake()
+	{
+		GetComponent<Text> ().material.color = new Color (0, 0, 0, 0);
+	}
+
+	public void Enter () {
+		GetComponent<Text> ().material.DOColor(Color.white, "_Color", 5).SetDelay(7);
+	}
+	
+}

@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99e6b6b4151094bb6b2e55568e38029b7f28b2a0754e4561afbad167fc53fa56
-size 533
+fileFormatVersion: 2
+guid: c587ba3bf18d34978932c7fc1b7809b9
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Laser
+  fontNames:
+  - Raider Crusader Laser
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

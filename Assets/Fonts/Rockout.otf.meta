@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ffb90e1a00e77f7654f19383d01f0b7b8ac253b0f3fa011f81571cc1c9a743f
-size 505
+fileFormatVersion: 2
+guid: 11816eb7f145e451b9d15773c013e578
+timeCreated: 1523418128
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rockout
+  fontNames:
+  - Rockout
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:07717b2b435ff37765dc597e07e0094df58eec72d720932b499e24d264e296e1
-size 543
+fileFormatVersion: 2
+guid: f36d8c85924b246729dec1d761299097
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Shift Down
+  fontNames:
+  - Raider Crusader Shift Down
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

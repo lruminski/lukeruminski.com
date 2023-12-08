@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:697b806be00d40d631d74c91c454a09ba28102f75584622e0430708f707aa79b
-size 539
+fileFormatVersion: 2
+guid: 8ffeb113513aa4ffd8775e6eb1db4234
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Halftone
+  fontNames:
+  - Raider Crusader Halftone
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

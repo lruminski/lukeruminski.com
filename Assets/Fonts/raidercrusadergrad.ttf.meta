@@ -1,3 +1,23 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:617d48dac205d228516ccf258de9a8566ed79004ec793528c728c9e66cbc0ccf
-size 539
+fileFormatVersion: 2
+guid: 89eafd747ef58481d869893c29bd5d2f
+timeCreated: 1523383154
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raider Crusader Gradient
+  fontNames:
+  - Raider Crusader Gradient
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
